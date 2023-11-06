@@ -11,7 +11,7 @@ let capabilities = {
    'os_version' : 'Sierra',
    'resolution' : '1280x1024',
    'browserstack.user' : 'chrismills4',
-   'browserstack.key' : 'DoDmjvSzK5eLSmAtVwi4',
+   'browserstack.key' : 'INSERT KEY',
    'browserstack.debug' : 'true',
    'build' : 'First build',
    'project' : 'Google test 2' // split up into projects
